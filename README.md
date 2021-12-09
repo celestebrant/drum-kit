@@ -1,2 +1,2 @@
 # Drum Kit
-I made this to practice JavaScript.
+An [interactive drum kit] (https://celestebrant.github.io/drum-kit/).
